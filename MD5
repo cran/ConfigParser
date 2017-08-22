@@ -1,0 +1,12 @@
+fc70b8f35f662898b0c41695821750a7 *DESCRIPTION
+68052f592390f242226965e43ebc489e *NAMESPACE
+5dafbea71041cad445e0f220c8a94640 *NEWS.md
+bbef635a52f02bfd469d23e6971ecce4 *R/ConfigParser.R
+45d4ab678ac5c2a02d976a42531b424c *R/HelperFunctions.R
+7c027d52b676918fd77cef655fadf5d6 *README.md
+c8bcb1fa7c5c732314b5ff3d36e3eb1a *inst/test.INI
+8bb994f486ccc504a4e492a5e2185997 *man/configParser-class.Rd
+c0190afd42cb40d29687b88f2c673d0e *man/interpolation_option.Rd
+679d38e4fd3070bdb9addf102dbcce5c *tests/testthat.R
+8eb7c9b088c54ed7bcbb2c947db3471b *tests/testthat/test-ConfigParser.R
+bcb2743c06bad3211072f412c4a6e841 *tests/testthat/test-Helpers.R
